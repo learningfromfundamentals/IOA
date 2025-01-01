@@ -14,10 +14,11 @@ IOA is for anyone who wants to learn a new topic, but doesn't know where to star
 ## How does it work?
 IOA works by first learning about you, and then the pairing algorithm recommends people with similar interest. 
 
-## Project Outline 
+## project considerations
 
     1.) Fully understand: platform design and architecture. 
+    2.) Consider the top 5 most important features.
+    3.) 
 
 
-    1 - What does the platform look like: simple, dark-theme, with clear instruction on how to maximize use.
-      - How does it run: 
+      
