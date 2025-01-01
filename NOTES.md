@@ -3,7 +3,8 @@
 ### One   
 ---
     1.) decide on architectural design of website i.e cross-platform.
-    2.) 
+            backend: PostgresSQL vs mySQL, cassandra vs mongodb?
+            frontend: ?
 ## What is it?
 A platform for self-studying where you have the option to learn and connect with others.
 
